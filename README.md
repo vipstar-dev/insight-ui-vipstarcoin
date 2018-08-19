@@ -1,18 +1,18 @@
-# Insight UI for BitZeny
+# Insight UI for VIPSTARCOIN
 
-A BitZeny blockchain explorer web application service for using the [Insight API for BitZeny](https://github.com/BitzenyCoreDevelopers/insight-api-bitzeny).
+A BitZeny blockchain explorer web application service for using the [Insight API for VIPSTARCOIN](https://github.com/vipstar-dev/insight-api-vipstarcoin).
 
 ## Getting Started
 
 To manually install all of the necessary components, you can run these commands:
 
 ```bash
-git clone https://github.com/BitzenyCoreDevelopers/insight-ui-bitzeny.git
-git clone https://github.com/BitzenyCoreDevelopers/insight-api-bitzeny.git
-cd insight-api-bitzeny
+git clone https://github.com/vipstar-dev/insight-ui-vipstarcoin.git
+git clone https://github.com/vipstar-dev/insight-api-vipstarcoin.git
+cd insight-api-vipstarcoin
 npm install
-cd ../insight-ui-bitzeny
-INSIGHT_FORCE_RPC_SYNC=1 INSIGHT_PUBLIC_PATH=public BITCOIND_USER=user BITCOIND_PASS=password INSIGHT_NETWORK=livenet INSIGHT_PORT=3000 node ../insight-api-bitzeny/insight.js
+cd ../insight-ui-vipstarcoin
+INSIGHT_FORCE_RPC_SYNC=1 INSIGHT_PUBLIC_PATH=public BITCOIND_USER=user BITCOIND_PASS=password INSIGHT_NETWORK=livenet INSIGHT_PORT=3000 node ../insight-api-vipstarcoin/insight.js
 ```
 
 #### WARNING:
