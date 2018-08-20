@@ -90,8 +90,8 @@ msgstr "Bytes Serializados"
 
 #: public/views/includes/connection.html
 msgid ""
-"Can't connect to bitzenyd to get live updates from the p2p network. (Tried "
-"connecting to bitzenyd at {{host}}:{{port}} and failed.)"
+"Can't connect to VIPSTARCOINd to get live updates from the p2p network. (Tried "
+"connecting to VIPSTARCOINd at {{host}}:{{port}} and failed.)"
 msgstr ""
 "No se pudo conectar a VIPSTARCOINd para obtener actualizaciones en vivo de la "
 "red p2p. (Se intentó conectar a VIPSTARCOINd de {{host}}:{{port}} y falló.)"
